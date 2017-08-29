@@ -12,6 +12,7 @@ namespace DevOpsCTT
         {
             System.Console.WriteLine("Hello WOrld..");
             System.Console.WriteLine("Changed");
+            System.Console.WriteLine("Chenged 2");
             System.Console.ReadLine();
         }
     }
