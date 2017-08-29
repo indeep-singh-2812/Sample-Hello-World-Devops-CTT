@@ -1,0 +1,6 @@
+c:\users\indeep.singh\documents\visual studio 2017\Projects\DevOpsCTT\DevOpsCTT\bin\Debug\DevOpsCTT.exe.config
+c:\users\indeep.singh\documents\visual studio 2017\Projects\DevOpsCTT\DevOpsCTT\bin\Debug\DevOpsCTT.exe
+c:\users\indeep.singh\documents\visual studio 2017\Projects\DevOpsCTT\DevOpsCTT\bin\Debug\DevOpsCTT.pdb
+c:\users\indeep.singh\documents\visual studio 2017\Projects\DevOpsCTT\DevOpsCTT\obj\Debug\DevOpsCTT.csprojResolveAssemblyReference.cache
+c:\users\indeep.singh\documents\visual studio 2017\Projects\DevOpsCTT\DevOpsCTT\obj\Debug\DevOpsCTT.exe
+c:\users\indeep.singh\documents\visual studio 2017\Projects\DevOpsCTT\DevOpsCTT\obj\Debug\DevOpsCTT.pdb
